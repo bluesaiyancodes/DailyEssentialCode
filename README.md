@@ -9,5 +9,8 @@ This even makes you aquainted on how to make pull requests and do your contribut
 
 To get a tshirt from hacktobe fest you must complete 5 pull requests in the month of october.
 
-
-
+Steps----
+1. fork this repo
+2. Make changes to any of the files, you can make corrections or make wrong for others to correct
+3. click on pull request
+4. commit
