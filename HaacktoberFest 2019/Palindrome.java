@@ -8,6 +8,7 @@ public class Palindrome {
   public static int getInput() {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter the your number: ");
+    System.out.println("jeevan");
 
     int number = sc.nextInt();
     sc.close();
