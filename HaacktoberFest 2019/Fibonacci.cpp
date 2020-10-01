@@ -12,6 +12,8 @@ int main()
 	cin >> first;
 	cout << "Enter the second number please"<<endl;
 	cin >> second;
+	//cout << first;
+	//cout << second;
 	while(count < nc){
 		sum = first + second;
 		cout << sum << endl;
@@ -20,4 +22,11 @@ int main()
 		count++;
 	}
 	return 0;
+}
+/*While(nc>0){
+	sum = first + second;
+	cout << sum << endl;
+	first = second;
+	second = sum;
+	nc--;
 }
