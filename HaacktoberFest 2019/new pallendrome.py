@@ -12,3 +12,13 @@ def pallen():  # made a function and it will execute  when u call pallen()
         print("Pallendrome")
     else:
         print("Not a pallendrome")   
+'''
+def pallin(item):
+    item = str(item)
+    flag = False
+    if(item == item[::-1)):
+        flag = True
+    return flag
+x = input('Enter a number: ')
+print(pallin(x))
+'''
